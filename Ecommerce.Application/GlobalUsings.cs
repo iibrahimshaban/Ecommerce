@@ -1,0 +1,9 @@
+﻿global using Ecommerce.Application.Common.Results;
+global using Ecommerce.Application.Contracts.Auth;
+global using Ecommerce.Core.Errors;
+global using Ecommerce.Application.Errors;
+global using FluentValidation;
+global using Ecommerce.Shared.Contracts.Users;
+global using Mapster;
+global using Ecommerce.Core.Interfaces;
+global using Ecommerce.Core.Entities;
